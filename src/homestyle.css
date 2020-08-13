@@ -1,0 +1,55 @@
+.homeImage {
+position:relative; 
+display:flex; 
+height:100px;
+max-height: 70px;
+}
+.tooltip {
+  position: relative;
+  padding-right: 90%;
+}
+
+.tooltiptext {
+  visibility: hidden;
+  float:left;
+  width: 100px;
+  font-size: 15px;
+  background-color: black;
+  color: #fff;
+  border-radius: 6px;
+  padding: 5px 0;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  /* left: 50%;*/
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+@media only screen and (max-width: 1170px) {
+    .tooltip {
+        padding-right:70%;
+    }
+    .tooltiptext {
+        width: 70px;
+        font-size: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .homeImage {
+        height: 40px;
+    }
+
+    .tooltiptext {
+        width: 50px;
+        font-size: 7px;
+    }
+    
+}
