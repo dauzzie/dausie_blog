@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dausie_blog/static/css/main.0f018143.chunk.css",
+    "main.js": "/dausie_blog/static/js/main.8e483396.chunk.js",
+    "main.js.map": "/dausie_blog/static/js/main.8e483396.chunk.js.map",
+    "runtime-main.js": "/dausie_blog/static/js/runtime-main.c84b4e47.js",
+    "runtime-main.js.map": "/dausie_blog/static/js/runtime-main.c84b4e47.js.map",
+    "static/js/2.b9b5d32d.chunk.js": "/dausie_blog/static/js/2.b9b5d32d.chunk.js",
+    "static/js/2.b9b5d32d.chunk.js.map": "/dausie_blog/static/js/2.b9b5d32d.chunk.js.map",
+    "index.html": "/dausie_blog/index.html",
+    "precache-manifest.9befedec81e57001278cce009178742c.js": "/dausie_blog/precache-manifest.9befedec81e57001278cce009178742c.js",
+    "service-worker.js": "/dausie_blog/service-worker.js",
+    "static/css/main.0f018143.chunk.css.map": "/dausie_blog/static/css/main.0f018143.chunk.css.map",
+    "static/js/2.b9b5d32d.chunk.js.LICENSE.txt": "/dausie_blog/static/js/2.b9b5d32d.chunk.js.LICENSE.txt",
+    "static/media/favicon.ico": "/dausie_blog/static/media/favicon.9e93cd65.ico",
+    "static/media/headerbg.jpg": "/dausie_blog/static/media/headerbg.173c0a18.jpg",
+    "static/media/headerbgdark.png": "/dausie_blog/static/media/headerbgdark.1c885041.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c84b4e47.js",
+    "static/js/2.b9b5d32d.chunk.js",
+    "static/css/main.0f018143.chunk.css",
+    "static/js/main.8e483396.chunk.js"
+  ]
+}
