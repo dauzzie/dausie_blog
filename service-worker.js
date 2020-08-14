@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dausie_blog/precache-manifest.7a0a182ae6858e895f52ce821b7fbe95.js"
+  "/dausie_blog/precache-manifest.620e95f50057ad798ad54da9c3e5bebd.js"
 );
 
 self.addEventListener('message', (event) => {
